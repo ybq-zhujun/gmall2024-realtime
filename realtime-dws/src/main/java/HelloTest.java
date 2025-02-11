@@ -7,5 +7,6 @@ public class HelloTest {
         System.out.println("hello");
         System.out.println("hello21");
         System.out.println("hello2afaf1");
+        System.out.println("hello hot");
     }
 }
