@@ -8,5 +8,6 @@ public class HelloTest {
         System.out.println("hello21");
         System.out.println("hello2afaf1");
         System.out.println("hello hot");
+        System.out.println("hello hot test");
     }
 }
