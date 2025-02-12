@@ -12,5 +12,6 @@ public class HelloTest {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("xiugai 01");
+        System.out.println("xiugai 03");
     }
 }
