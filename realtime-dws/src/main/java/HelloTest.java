@@ -13,5 +13,6 @@ public class HelloTest {
         System.out.println("pull test");
         System.out.println("xiugai 01");
         System.out.println("xiugai 03");
+        System.out.println("xiugai 04");
     }
 }
